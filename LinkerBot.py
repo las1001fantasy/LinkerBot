@@ -12,7 +12,7 @@ from telegram.ext import (
 
 import os
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8769269108:AAFxzAEi2qQurtsR_lqzzDAq54qCRCkgBjg")
 
 # ID DEL GRUP
 GROUP_ID = -1001497506939
