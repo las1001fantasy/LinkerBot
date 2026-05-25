@@ -80,7 +80,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         # AVIS ALS MANAGERS
         await context.bot.send_message(
             chat_id=GROUP_ID,
-            text="⚠️ Recuerda: @chuck_villa es imbécil integral y los enlaces de ligas fantasy deben publicarse en el topic 'Ligas', no en General, ¡gracias!"
+            text="⚠️ ¡Manager! Recuerda que los enlaces de ligas fantasy deben publicarse en el topic de LIGAS, no en General, ¡Gracias por tu colaboración!"
      )
         print("Missatge mogut a lligues")
 
